@@ -1,4 +1,4 @@
-Marketplace - E-commerce Web Page
+Marketplace - E-commerce Web Page by Mido
 
 Welcome to the Marketplace project! This is a simple e-commerce page where users can browse and add products to their cart. It features a modern design, dynamic cart functionality, and a user-friendly experience with visual feedback when items are added to the cart.
 Features
